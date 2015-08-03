@@ -1,0 +1,40 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="co.herovitamin.scrollingtechniques.Technique1Activity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        style="@style/TechniqueToolbar"/>
+
+    <Button
+        android:id="@+id/btn_technique_one"
+        android:layout_below="@+id/toolbar"
+        android:text="@string/technique_one"
+        style="@style/TechniqueButton"/>
+    <Button
+        android:id="@+id/btn_technique_two"
+        android:layout_below="@+id/btn_technique_one"
+        android:text="@string/technique_two"
+        style="@style/TechniqueButton"/>
+    <Button
+        android:id="@+id/btn_technique_three"
+        android:layout_below="@+id/btn_technique_two"
+        android:text="@string/technique_three"
+        style="@style/TechniqueButton"/>
+    <Button
+        android:id="@+id/btn_technique_four"
+        android:layout_below="@+id/btn_technique_three"
+        android:text="@string/technique_four"
+        style="@style/TechniqueButton"/>
+    <Button
+        android:id="@+id/btn_technique_five"
+        android:layout_below="@+id/btn_technique_four"
+        android:text="@string/technique_five"
+        style="@style/TechniqueButton"/>
+    <Button
+        android:id="@+id/btn_for_testing"
+        android:layout_below="@+id/btn_technique_five"
+        android:text="@string/for_testing"
+        style="@style/TechniqueButton"/>
+</RelativeLayout>

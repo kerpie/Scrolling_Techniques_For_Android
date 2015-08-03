@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Scrolling Techniques</string>
+
+    <string name="technique_one">Technique one</string>
+    <string name="technique_two">Technique two</string>
+    <string name="technique_three">Technique three</string>
+    <string name="technique_four">Technique four</string>
+    <string name="technique_five">Technique five</string>
+    <string name="for_testing">Testing Activity</string>
+
+    <!-- Days -->
+    <string-array name="days_names">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+    <string name="title_activity_technique1">Technique 1</string>
+    <string name="title_activity_technique2">Technique 2</string>
+    <string name="title_activity_technique3">Technique 3</string>
+    <string name="title_activity_technique4">Technique 4</string>
+    <string name="title_activity_technique5">Technique 5</string>
+    <string name="title_activity_for_testing">Testing Activity</string>
+
+</resources>
