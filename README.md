@@ -10,4 +10,4 @@ Please, don't forget to sync the project after you import it to your workspace.
 
 ##Contact
 
-If you find any error in this project, feel free to leave a message or send me a email to k4torce@gmail.com 
+If you find any error in this project, feel free to leave a message or send me an email to k4torce@gmail.com 
