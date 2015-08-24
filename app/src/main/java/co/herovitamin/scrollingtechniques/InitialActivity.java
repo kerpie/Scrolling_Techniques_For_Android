@@ -8,7 +8,7 @@ import android.support.v7.widget.Toolbar;
 
 import co.herovitamin.scrollingtechniques.adapter.RecyclerViewAdapter;
 
-public class ForTestingActivity extends AppCompatActivity {
+public class InitialActivity extends AppCompatActivity {
 
     Toolbar toolbar;
     RecyclerView days_list;
@@ -16,7 +16,7 @@ public class ForTestingActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_for_testing);
+        setContentView(R.layout.activity_initial);
 
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         days_list = (RecyclerView) findViewById(R.id.days_list);
@@ -27,7 +27,7 @@ public class ForTestingActivity extends AppCompatActivity {
         ));
 
         setSupportActionBar(toolbar);
-        toolbar.setTitle(R.string.title_activity_for_testing);
+        toolbar.setTitle(R.string.title_activity_initial);
     }
 
 }

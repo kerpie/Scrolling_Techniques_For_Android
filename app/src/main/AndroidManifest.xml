@@ -21,8 +21,8 @@
             android:label="@string/title_activity_technique1" >
         </activity>
         <activity
-            android:name=".ForTestingActivity"
-            android:label="@string/title_activity_for_testing" >
+            android:name=".InitialActivity"
+            android:label="@string/title_activity_initial" >
         </activity>
         <activity
             android:name=".Technique2Activity"

@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
                 intent = new Intent(this, Technique5Activity.class);
                 break;
             default:
-                intent = new Intent(this, ForTestingActivity.class);
+                intent = new Intent(this, InitialActivity.class);
                 break;
         }
         startActivity(intent);

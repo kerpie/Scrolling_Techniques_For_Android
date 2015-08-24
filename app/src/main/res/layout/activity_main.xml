@@ -35,6 +35,6 @@
     <Button
         android:id="@+id/btn_for_testing"
         android:layout_below="@+id/btn_technique_five"
-        android:text="@string/for_testing"
+        android:text="@string/initial"
         style="@style/TechniqueButton"/>
 </RelativeLayout>

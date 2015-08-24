@@ -6,7 +6,7 @@
     <string name="technique_three">Technique three</string>
     <string name="technique_four">Technique four</string>
     <string name="technique_five">Technique five</string>
-    <string name="for_testing">Testing Activity</string>
+    <string name="initial">Initial Activity</string>
 
     <!-- Days -->
     <string-array name="days_names">
@@ -24,6 +24,6 @@
     <string name="title_activity_technique3">Technique 3</string>
     <string name="title_activity_technique4">Technique 4</string>
     <string name="title_activity_technique5">Technique 5</string>
-    <string name="title_activity_for_testing">Testing Activity</string>
+    <string name="title_activity_initial">Initial Activity</string>
 
 </resources>

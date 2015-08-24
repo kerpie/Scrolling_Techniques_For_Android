@@ -47,5 +47,4 @@ public class Technique2Activity extends AppCompatActivity {
         getSupportActionBar().setTitle(R.string.title_activity_technique2);
     }
 
-
 }
