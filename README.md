@@ -1,13 +1,9 @@
-#Scrolling Techniques for Android
+### Tuts+ Tutorial: Scrolling Techniques for Material Design
 
-##What is this?
+#### Instructor: Kerry Perez Huanca
 
-This project is a starting point for everybody trying to implement the Scrolling Techniques listed in Google's Material Design Specification. It was implemented using the Android Design Support Library and the latest version of RecyclerView. You can read more about these techniques in Google specification or you can see how I implemented them all in the [tutorial I created for Tutplus+](http://code.tutsplus.com/articles/scrolling-techniques-for-android-apps--cms-24435)(not published yet).
+During this year's Google I/O, Google introduced the Android Design Support Library to make the adoption of Material Design easier. This lets developers focus on the features that make their applications unique. In this tutorial, I’ll teach you how to implement the scrolling techniques that were demoed in Google’s Material Design specification.
 
-##Installation
+Source files for the Tuts+ tutorial: [Scrolling Techniques for Material Design](http://code.tutsplus.com/articles/scrolling-techniques-for-material-design--cms-24435)
 
-Please, don't forget to sync the project after you import it to your workspace.
-
-##Contact
-
-If you find any error in this project, feel free to leave a message or send me an email to k4torce@gmail.com 
+**Read this tutorial on [Tuts+](https://code.tutsplus.com)**
